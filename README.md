@@ -1,2 +1,2 @@
 # occluded-face-recognition-experiments
-This repo performs a series of experiments of identification of face images that either wears an eyeglasses or a face mask.
+This project investigates face identification processes under different types of occlusion and compares different experiment results. Both non-occluded and occluded faces have been experimented with the same or similar algorithms in order to highlight the effect of an occlusion over the recognition algorithm. Furthermore, different occlusion types and grades compared with each other with respect to biometric recognition performance.
