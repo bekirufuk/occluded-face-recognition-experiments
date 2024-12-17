@@ -21,9 +21,9 @@ This project investigates face identification processes under different types of
 
 |                             | Overall Error | FAR  | FRR  |
 |-----------------------------|---------------|------|------|
-| Full Face                   | 0.48          | 0.47 | 0.49 |
-| Partial Face(Mace Mask)     | 0.28          | 0.33 | 0.28 |
-| Partial Face(Sunglasses)    | 0.87          | 0.02 | 1    |
+| Full Face Approach          | 0.48          | 0.47 | 0.49 |
+| Partial Face Approach(Mask) | 0.28          | 0.33 | 0.28 |
+
 
 ## Evaluation
 
